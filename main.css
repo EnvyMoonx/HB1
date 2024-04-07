@@ -630,8 +630,8 @@ label[for=night]:before {
 }
 .letter {   
     position: absolute;
-    bottom: 200px;
+    bottom: 130px;
     font-family: 'Times New Roman', Times, serif;
-    font-size:15px - 25px;
+    font-size:10px;
     color: hsl(196, 53%, 79%); 
 }
